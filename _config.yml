@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:quelenlea@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/jbquelen"}
+  - {title: Mail, icon: envelope, url: "mailto:quelen.lea@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/lquelen"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
