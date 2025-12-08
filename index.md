@@ -5,6 +5,24 @@ title: "Blog"
 
 Here is what I have lately baked
 
+## Novembre 2025
+### Tartelette framboise crème chibouste et crémeux à la framboise
+![tarteletteframb](images/tarteletteframb.seul.nov.2025.1.jpg)
+![tarteletteframb](images/tarteletteframb.seul.nov.2025.2.jpg)
+![tarteletteframb](images/tarteletteframb.coupe.seul.nov.2025.jpg)
+![tarteletteframbbcp](images/tarteletteframb.plusieur.nov.2025.jpeg)
+
+
+## September 2025
+### Tiramisu 
+![tiramisu](images/tiramisu.entier.sept.2025.1.jpg)
+![tiramisu](image/tiramisu.entier.sept.2025.jpg)
+![tiramisu](images/tiramisu.part.sept.2025.jpg)
+
+## August 2025
+### Génoises à plusieurs parfums
+![genoise](images/génoise.test.plusieurs.août.2025.jpg)
+
 ## February 2025
 ### Chinois (brioche fourrée à la crème patissière)
 ![chinois](images/chinois.feb2025.jpg)
@@ -62,9 +80,6 @@ Here is what I have lately baked
 ### Cheesecake au zest de citron vert
 ![cheesecake 1](images/cheesecake.sept2024.jpg)
 ![cheesecake 2](images/cheesecake2.sept2024.jpg)
-
-### Tiramisu
-![tiramisu](images/tiramisu.sept2024.jpg)
 
 ## August 2024
 
