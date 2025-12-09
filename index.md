@@ -21,7 +21,7 @@ Here is what I have lately baked
 
 ## August 2025
 ### Génoises à plusieurs parfums
-![genoise](images/génoise.test.plusieurs.août.2025.jpg)
+![genoise](images/genoise.test.plusieurs.août.2025.jpg)
 
 ## February 2025
 ### Chinois (brioche fourrée à la crème patissière)
