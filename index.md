@@ -5,7 +5,7 @@ title: "Blog"
 
 Here is what I have lately baked
 
-## Novembre 2025
+## November 2025
 ### Tartelette framboise crème chibouste et crémeux à la framboise
 ![tarteletteframb](images/tarteletteframb.seul.nov.2025.1.jpg)
 ![tarteletteframb](images/tarteletteframb.seul.nov.2025.2.jpg)
