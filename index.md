@@ -16,7 +16,7 @@ Here is what I have lately baked
 ## September 2025
 ### Tiramisu 
 ![tiramisu](images/tiramisu.entier.sept.2025.1.jpg)
-![tiramisu](image/tiramisu.entier.sept.2025.jpg)
+![tiramisu](images/tiramisu.entier.sept.2025.jpg)
 ![tiramisu](images/tiramisu.part.sept.2025.jpg)
 
 ## August 2025
